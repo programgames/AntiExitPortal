@@ -11,3 +11,5 @@ Cauldron
 Kcauldron
 Thermos
 spigot api
+
+column : mc version , legal dmca takedown, speed, forge compat, updated ?
