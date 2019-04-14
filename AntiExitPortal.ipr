@@ -21,6 +21,19 @@
       </map>
     </option>
   </component>
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="AntiExitPortal" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AntiExitPortal" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
   <component name="EntryPointsManager">
     <list size="1">
       <item index="0" class="java.lang.String" itemvalue="org.bukkit.event.EventHandler" />
@@ -31,6 +44,13 @@
       <option name="myName" value="Project Default" />
     </profile>
     <version value="1.0" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
   </component>
   <component name="Palette2">
     <group name="Swing">
@@ -169,6 +189,17 @@
       <CLASSES />
       <JAVADOC />
       <SOURCES />
+    </library>
+    <library name="Maven: org.bukkit:bukkit:1.7.9-R0.3-SNAPSHOT">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bukkit/bukkit/1.7.9-R0.3-SNAPSHOT/bukkit-1.7.9-R0.3-20140626.213225-3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bukkit/bukkit/1.7.9-R0.3-SNAPSHOT/bukkit-1.7.9-R0.3-20140626.213225-3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bukkit/bukkit/1.7.9-R0.3-SNAPSHOT/bukkit-1.7.9-R0.3-20140626.213225-3-sources.jar!/" />
+      </SOURCES>
     </library>
   </component>
 </project>

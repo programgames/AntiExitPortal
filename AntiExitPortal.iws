@@ -7,9 +7,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8af973a-e5ce-4134-b865-df418e3610d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AntiExitPortal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AntiExitPortal.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AntiExitPortal.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/AntiExitPortal.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AntiExitPortal.iws" beforeDir="false" afterPath="$PROJECT_DIR$/AntiExitPortal.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/bukkit-1.7.9-R0.3-20140626.213225-3-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/bukkit-1.7.9-R0.3-20140626.213225-3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/AntiExitportal/AntiExitportal.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AntiExitPortal/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AntiExitPortal/com/programgames/antiexitportal/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AntiExitPortal/plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/programgames/antiexitportal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programgames/antiexitportal/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugin.yml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,71 +114,104 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1345314371">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="MF" value="2" />
+          <entry key="class" value="1" />
+          <entry key="gitignore" value="3" />
+          <entry key="iml" value="2" />
+          <entry key="iws" value="1" />
+          <entry key="java" value="6" />
+          <entry key="md" value="2" />
+          <entry key="txt" value="1" />
+          <entry key="xml" value="4" />
+          <entry key="xsd" value="1" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="IDEA_WORKSPACE" value="1" />
+          <entry key="JAVA" value="6" />
+          <entry key="Manifest" value="2" />
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="XML" value="5" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="MF" value="52" />
+          <entry key="gitignore" value="4" />
+          <entry key="java" value="70" />
+          <entry key="md" value="161" />
+          <entry key="txt" value="31" />
+          <entry key="xml" value="220" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="70" />
+          <entry key="Manifest" value="52" />
+          <entry key="Markdown" value="161" />
+          <entry key="PLAIN_TEXT" value="35" />
+          <entry key="XML" value="220" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/programgames/antiexitportal/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="153">
+                <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/bukkit-1.7.9-R0.3-20140626.213225-3.jar!/org/bukkit/event/entity/EntityCreatePortalEvent.class">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="14" column="36" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="36" />
+            <state relative-caret-position="68">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/bukkit-1.7.9-R0.3-20140626.213225-3.jar!/org/bukkit/event/entity/EntityPortalExitEvent.class">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/programgames/antiexitportal/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/bukkit-1.7.9-R0.3-20140626.213225-3.jar!/org/bukkit/event/entity/EntityPortalEvent.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/bukkit-1.7.9-R0.3-20140626.213225-3.jar!/org/bukkit/scheduler/BukkitRunnable.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/bukkit-1.7.9-R0.3-20140626.213225-3.jar!/org/bukkit/event/server/PluginEvent.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/plugin.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+            <state relative-caret-position="68">
+              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -191,8 +240,8 @@
         <entry key="$PROJECT_DIR$/../Minecraft/ThermalExpansion" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../Minecraft/ThermalSmeltery" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../MultimodPlus" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../ThermalSmeltery" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../forge-1.12.2-14.23.4.2739-mdk" value="PREVIEW" />
+        <entry key="$USER_HOME$/ThermalSmeltery" value="PREVIEW" />
+        <entry key="$USER_HOME$/forge-1.12.2-14.23.4.2739-mdk" value="PREVIEW" />
       </map>
     </option>
   </component>
@@ -202,10 +251,42 @@
         <option value="$PROJECT_DIR$/src/com/programgames/antiexitportal/AntiExitPortal.java" />
         <option value="$PROJECT_DIR$/src/plugin.yml" />
         <option value="$PROJECT_DIR$/src/com/programgames/antiexitportal/Main.java" />
+        <option value="$PROJECT_DIR$/src/java/main/com/programgames/antiexitportal/Main.java" />
+        <option value="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+        <option value="$PROJECT_DIR$/src/plugin.yml.txt" />
+        <option value="$PROJECT_DIR$/src/java/main/ressources/plugin.yml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/com/programgames/antiexitportal/d.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/programgames/antiexitportal/Main.java" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="antiexitportal" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="antiexitportal" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Run Configurations" type="21c1f71a:MavenProjectsStructure$RunConfigurationsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-177" />
     <option name="y" value="79" />
     <option name="width" value="1918" />
@@ -217,6 +298,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -227,54 +309,38 @@
             <path>
               <item name="AntiExitPortal" type="b2602c69:ProjectViewProjectNode" />
               <item name="AntiExitPortal" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AntiExitPortal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AntiExitPortal" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AntiExitPortal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AntiExitPortal" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-              <item name="AntiExitportal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AntiExitPortal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AntiExitPortal" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AntiExitPortal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AntiExitPortal" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AntiExitPortal" type="b2602c69:ProjectViewProjectNode" />
               <item name="AntiExitPortal" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AntiExitPortal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AntiExitPortal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AntiExitPortal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AntiExitPortal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="antiexitportal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AntiExitPortal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AntiExitPortal" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555098185479" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555250602972" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/bukkit-1.7.9-R0.3-20140626.213225-3.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15330188" />
@@ -282,11 +348,14 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Julien\Desktop\AntiExitPortal\src" />
+      <recent name="C:\Users\Julien\Desktop\Dev\AntiExitPortal\doc" />
       <recent name="C:\Users\Julien\Desktop\Dev\AntiExitPortal\lib" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Julien\Desktop\Dev\AntiExitPortal\doc" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Julien\Desktop\AntiExitPortal\src\java\main\ressources" />
+      <recent name="C:\Users\Julien\Desktop\AntiExitPortal" />
       <recent name="C:\Users\Julien\Desktop\Dev\AntiExitPortal\lib" />
     </key>
   </component>
@@ -315,6 +384,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="build jar" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="-X" />
+                <option value="clean" />
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
@@ -338,10 +434,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-177" y="79" width="1918" height="1038" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26856837" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28997868" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Compare Directories" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -350,15 +446,15 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.22668113" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46203905" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="CheckStyle" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32964602" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.23318872" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -368,7 +464,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info active="true" anchor="right" id="Maven Projects" order="7" visible="true" weight="0.10127932" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -376,69 +472,96 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$PROJECT_DIR$/lib/bukkit-1.7.9-R0.3-20140626.213225-3.jar!/org/bukkit/event/entity/EntityPortalEnterEvent.class" />
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/lib/bukkit-1.7.9-R0.3-20140626.213225-3.jar!/org/bukkit/entity/EnderDragonPart.class" />
     <entry file="jar://$PROJECT_DIR$/lib/bukkit-1.7.9-R0.3-20140626.213225-3.jar!/org/bukkit/entity/EnderDragon.class" />
     <entry file="jar://$PROJECT_DIR$/lib/bukkit-1.7.9-R0.3-20140626.213225-3.jar!/org/bukkit/entity/FallingSand.class" />
+    <entry file="file://$PROJECT_DIR$/antiexitportal/src/main/java/com/programgames/antiexitportal/App.java" />
+    <entry file="file://$PROJECT_DIR$/antiexitportal/src/test/java/com/programgames/antiexitportal/AppTest.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/bukkit-1.7.9-R0.3-20140626.213225-3.jar!/org/bukkit/event/entity/EntityCreatePortalEvent.class" />
+    <entry file="jar://$PROJECT_DIR$/lib/bukkit-1.7.9-R0.3-20140626.213225-3.jar!/org/bukkit/event/entity/EntityPortalExitEvent.class" />
+    <entry file="jar://$PROJECT_DIR$/lib/bukkit-1.7.9-R0.3-20140626.213225-3.jar!/org/bukkit/event/entity/EntityPortalEvent.class" />
+    <entry file="jar://$PROJECT_DIR$/lib/bukkit-1.7.9-R0.3-20140626.213225-3.jar!/org/bukkit/scheduler/BukkitRunnable.class" />
+    <entry file="jar://$PROJECT_DIR$/lib/bukkit-1.7.9-R0.3-20140626.213225-3.jar!/org/bukkit/event/server/PluginEvent.class" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12733">
+          <caret line="749" column="6" selection-start-line="749" selection-start-column="6" selection-end-line="749" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/programgames/antiexitportal/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/bukkit-1.7.9-R0.3-20140626.213225-3.jar!/org/bukkit/event/entity/EntityCreatePortalEvent.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/bukkit-1.7.9-R0.3-20140626.213225-3.jar!/org/bukkit/event/entity/EntityPortalExitEvent.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/bukkit-1.7.9-R0.3-20140626.213225-3.jar!/org/bukkit/event/entity/EntityPortalEvent.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/bukkit-1.7.9-R0.3-20140626.213225-3.jar!/org/bukkit/scheduler/BukkitRunnable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/bukkit-1.7.9-R0.3-20140626.213225-3.jar!/org/bukkit/event/server/PluginEvent.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/plugin.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <caret line="1" column="58" selection-start-line="1" selection-start-column="58" selection-end-line="1" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/plugin.yml.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/plugin.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntiExitPortal.iws">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntiExitPortal.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/programgames/antiexitportal/d.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/bukkit/bukkit/1.7.9-R0.3-SNAPSHOT/bukkit-1.7.9-R0.3-20140626.213225-3.jar!/org/bukkit/plugin/java/JavaPlugin.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/programgames/antiexitportal/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="153">
+            <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
