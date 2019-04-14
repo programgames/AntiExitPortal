@@ -33,8 +33,6 @@ public class Main extends JavaPlugin implements Listener {
   @EventHandler(priority = EventPriority.MONITOR)
   public void onEntityCreatePortal(EntityCreatePortalEvent event) {
     Logger log = Bukkit.getLogger();
-    Location dragonLocation = event.getEntity().getLocation();
-    int r = 100;
     event.setCancelled(true);
     log.info("Dragon killed");
     event.getEntity().getLocation().getBlock().setType(Material.DRAGON_EGG);
