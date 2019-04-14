@@ -1,6 +1,12 @@
 package com.programgames.antiexitportal;
 
 import org.bukkit.Bukkit;
+import org.bukkit.Location;
+import org.bukkit.Material;
+import org.bukkit.PortalType;
+import org.bukkit.block.Block;
+import org.bukkit.entity.EnderDragon;
+import org.bukkit.entity.Entity;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.EventPriority;
 import org.bukkit.event.Listener;
@@ -19,20 +25,20 @@ public class Main extends JavaPlugin implements Listener {
   public void onEnable() {
     super.onEnable();
     Bukkit.getServer().getPluginManager().registerEvents(this, this);
-
-    Bukkit.broadcastMessage("HELLO");
     Logger log = Bukkit.getLogger();
-    log.info("hi");
+    log.info("Anti exit portal loaded");
 
   }
 
-  @EventHandler(priority = EventPriority.HIGHEST)
-  public void onEvent(EntityCreatePortalEvent e) {
-    Bukkit.broadcastMessage("HELLO2");
-    getServer( ).broadcastMessage( "Message" );
+  @EventHandler(priority = EventPriority.MONITOR)
+  public void onEntityCreatePortal(EntityCreatePortalEvent event) {
     Logger log = Bukkit.getLogger();
-    log.info("hiportal");
+    Location dragonLocation = event.getEntity().getLocation();
+    int r = 100;
+    event.setCancelled(true);
+    log.info("Dragon killed");
+    event.getEntity().getLocation().getBlock().setType(Material.DRAGON_EGG);
 
-    e.setCancelled(true);//On annule cet évènement
   }
 }
+
